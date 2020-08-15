@@ -1,1 +1,1 @@
-# BilibiliDownloader
+# GoRelated
