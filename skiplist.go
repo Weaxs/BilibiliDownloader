@@ -27,9 +27,9 @@ type zskiplistNode struct {
 type zskiplist struct {
 	// 链头、链尾
 	header, tail *zskiplistNode
-
+	// 节点数
 	length int64
-
+	// 层数
 	level int16
 }
 
