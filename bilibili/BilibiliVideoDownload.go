@@ -64,5 +64,4 @@ func main() {
 	aid, cid, bvid := getAidFromBvid(bvid)
 
 	print("aid=" + strconv.FormatInt(aid, 10) + "   cid=" + fmt.Sprint(cid))
-
 }
