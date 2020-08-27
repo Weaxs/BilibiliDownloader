@@ -26,4 +26,5 @@ func main() {
 	data, _ := bilibili.GetVideoTag(aid)
 	fmt.Print(data)
 
+	
 }
